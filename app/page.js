@@ -54,14 +54,14 @@ export default function Home() {
           <h2>
             Vote Escrow <span>-&gt;</span>
           </h2>
-          <p>Visualize your voting strength</p>
+          <p>Visualize vote strength</p>
         </Link>
 
         <Link href="/pages/impermanent-loss" className={styles.card}>
           <h2>
             Impermanent Loss<span>-&gt;</span>
           </h2>
-          <p>Estimate impermanent loss</p>
+          <p>Estimate your impermanent loss</p>
         </Link>
 
         <Link href="/pages/inflation-schedule" className={styles.card}>
