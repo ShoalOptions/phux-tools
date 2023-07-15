@@ -43,28 +43,28 @@ export default function Home() {
       </div>
 
       <div className={styles.grid}>
-        <Link href="/pages/vephux-boost" className={styles.card}>
+        <Link href="pages/vephux-boost" className={styles.card}>
           <h2>
             vePHUX Boost <span>-&gt;</span>
           </h2>
           <p>Calculate your vePHUX boost</p>
         </Link>
 
-        <Link href="/pages/vote-escrow" className={styles.card}>
+        <Link href="pages/vote-escrow" className={styles.card}>
           <h2>
             Vote Escrow <span>-&gt;</span>
           </h2>
           <p>Visualize vote strength</p>
         </Link>
 
-        <Link href="/pages/impermanent-loss" className={styles.card}>
+        <Link href="pages/impermanent-loss" className={styles.card}>
           <h2>
             Impermanent Loss<span>-&gt;</span>
           </h2>
           <p>Estimate your impermanent loss</p>
         </Link>
 
-        <Link href="/pages/inflation-schedule" className={styles.card}>
+        <Link href="pages/inflation-schedule" className={styles.card}>
           <h2>
             Inflation Schedule<span>-&gt;</span>
           </h2>
